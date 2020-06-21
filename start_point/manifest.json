@@ -1,0 +1,14 @@
+{
+  "image_name": "cyberdojofoundation/clang_assert",
+  "display_name": "C (clang), assert",
+  "visible_filenames": [
+     "hiker.tests.c",
+     "hiker.c",
+     "hiker.h",
+     "makefile",
+     "cyber-dojo.sh"
+  ],
+  "filename_extension": [ ".c", ".h" ],
+  "max_seconds": 10,
+  "tab_size": 4
+}
