@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/clang_assert:b2e0fb0",
+  "image_name": "ghcr.io/cyber-dojo-languages/clang_assert:2acce4b",
   "display_name": "C (clang), assert",
   "visible_filenames": [
     "hiker.tests.c",
