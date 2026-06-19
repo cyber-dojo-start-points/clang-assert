@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/clang_assert:ed23233",
   "display_name": "C (clang 18.1.3), assert",
+  "language": [
+    "C (clang)",
+    "18.1.3"
+  ],
+  "test_framework": [
+    "assert",
+    ""
+  ],
   "visible_filenames": [
     "hiker.tests.c",
     "hiker.c",
