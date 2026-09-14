@@ -1,0 +1,7 @@
+{
+  "matches": [ "undefined reference to .the_answer_is_two_digits_long." ],
+  "match_counts": {
+    "Assertion .* failed\\.": 0,
+    "^All tests passed$": 0
+  }
+}

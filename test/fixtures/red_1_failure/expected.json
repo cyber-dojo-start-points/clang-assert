@@ -1,0 +1,6 @@
+{
+  "match_counts": {
+    "^test: hiker\\.tests\\.c:[0-9]+: void life_the_universe_and_everything\\(void\\): Assertion `answer\\(\\) == 42' failed\\.$": 1,
+    "^All tests passed$": 0
+  }
+}

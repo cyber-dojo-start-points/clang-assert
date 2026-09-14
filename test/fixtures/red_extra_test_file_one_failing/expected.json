@@ -1,0 +1,6 @@
+{
+  "match_counts": {
+    "^test: answer_size\\.tests\\.c:[0-9]+: void the_answer_is_three_digits_long\\(void\\): Assertion `answer\\(\\) > 99' failed\\.$": 1,
+    "^All tests passed$": 0
+  }
+}

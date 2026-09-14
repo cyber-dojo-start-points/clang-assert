@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^==[0-9]+==ERROR: AddressSanitizer: SEGV on unknown address ",
+    "^SUMMARY: AddressSanitizer: SEGV .* in answer$"
+  ],
+  "match_counts": {
+    "Assertion .* failed\\.": 0,
+    "^All tests passed$": 0
+  }
+}

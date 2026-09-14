@@ -1,0 +1,7 @@
+{
+  "matches": [ "error: call to undeclared function 'ansewr'" ],
+  "match_counts": {
+    "Assertion .* failed\\.": 0,
+    "^All tests passed$": 0
+  }
+}
