@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/clang_assert:ffda3f5@sha256:5dfbbbf435cb42233592f41ce621d03fdc87166d40b5ae5e62098bec37843898",
-  "display_name": "C (clang 23.1.5), assert",
+  "image_name": "ghcr.io/cyber-dojo-languages/clang_assert:c0b9a3a@sha256:2292c61c944ba05bae638f2dacae523cbeed9491c2a400e08ee34082243b380b",
+  "display_name": "C (clang 23.1.6), assert",
   "language": [
     "C (clang)",
-    "23.1.5"
+    "23.1.6"
   ],
   "test_framework": [
     "assert",
